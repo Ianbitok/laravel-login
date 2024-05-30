@@ -1,8 +1,8 @@
-# laravel9_template_sample
+# Laravel Begining
 
 
 
-## Getting started
+## Getting started with admin and login users
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
